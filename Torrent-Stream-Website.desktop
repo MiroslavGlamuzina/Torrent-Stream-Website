@@ -1,8 +1,0 @@
-[Desktop Entry]
-Version=x.y
-Name=ProgramName
-Comment=This is my comment
-Exec=google-chrome --app=http://localhost/Torrent-Stream-Website/index.html
-Terminal=false
-Type=Application
-Categories=Utility;Application;
