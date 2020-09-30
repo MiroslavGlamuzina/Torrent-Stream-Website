@@ -10,7 +10,7 @@ cp -a .data/. /var/www/html/Torrent-Stream-Website/
 sudo chmod a+x .other/Torrent-Stream-Website.desktop
 cp -a .other/Torrent-Stream-Website.desktop ./Torrent-Stream-Website.desktop
 #cp -a .Torrent-Stream-Website.sh Torrent-Stream-Website.sh
-echo "setup completed!"
-echo "Application Created"
+echo "setup complete Successfully!"
+echo "Application Create Successfully."
 
 
